@@ -2,7 +2,7 @@
 
 Proyecto de una web para dibujar
 
-https://reactjscalcul.netlify.app
+drawing-js.netlify.app
 
 ## Features
 
