@@ -2,7 +2,7 @@
 
 Proyecto de una web para dibujar
 
-drawing-js.netlify.app
+https://drawing-js.netlify.app
 
 ## Features
 
